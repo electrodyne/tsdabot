@@ -1,0 +1,14 @@
+user=Ian
+bot=TSDA Bot
+
+user: hello
+bot: hi! what would you like me to call you?
+
+user: Ian
+bot: Hello, Ian. Here are some examples I can help you with:
+* Are there any talks on Bot Framework?
+* When is James Ian Fauni speaking?
+* Who is giving the keynote?
+* Where can I hear the Engineering Talk?
+
+bot: Just type in whatever you need! If you get stuck, just type "help" and I'll do what I can.

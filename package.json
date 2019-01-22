@@ -1,0 +1,18 @@
+{
+  "name": "tsdabot",
+  "version": "1.0.0",
+  "description": "tsda universal bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Ian Fauni <James.Fauni@maximintegrated.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/restify": "^7.2.7",
+    "azure-storage": "^2.10.2",
+    "botbuilder": "^4.2.0",
+    "restify": "^7.6.0",
+    "typescript": "^3.2.4"
+  }
+}

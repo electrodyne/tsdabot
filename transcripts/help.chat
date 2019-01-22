@@ -1,0 +1,11 @@
+user=Ian
+bot=TSDA Bot
+
+user: help
+bot: [Suggestions=Iwant to know about a topic|I want to know aout a speaker|I want to know about the venue]
+
+user: I what to know about a topic
+bot: You can ask:
+* _Who is speaking about bots?_
+* _Where is the Bot Framework Talk?_
+* _What time is the Bot Framework talk?_

@@ -1,0 +1,18 @@
+{
+    "name": "TSDABot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "dfa5d5b0-1ba2-11e9-bed6-6f5415226d65",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\james.fauni\\Documents\\Github\\TSDABOT\\TSDABot.bot"
+}
